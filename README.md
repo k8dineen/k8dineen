@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**k8dineen/k8dineen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with experience in building applications with Python, Java, C, SQL, JavaScript, Flask, HTML/CSS, and VBA. Building automated processes to create seamless products is my favorite thing to do. Breaking down problems into clean and organized scripts is my strength.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I do
+
+🤖 Teaching Assistant for the Columbia University CS Department (Fall 2023)
+
+💻 Software Engineer Intern @ iHeartMedia (Summer 2023)
+
+🎓 December '23 Grad @ Columbia University in the City of New York
+
+
+More about me
+
+🌱 I’m currently learning C# and React
+
+💬 Ask me anything about networks and servers or database queries!
+
+📫 How to reach me: - LinkedIn: Kate Dineen, - Mail: Send me an e-mail!
+
+🔎 Fun facts: I love sports and learning new languages!
+
