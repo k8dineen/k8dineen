@@ -9,6 +9,8 @@ What I do
 
 💻 Software Engineer Intern @ iHeartMedia (Summer 2023)
 
+💻 Software Engineer Intern @ TripleLift (Summer 2022)
+
 🎓 December '23 Grad @ Columbia University in the City of New York
 
 
