@@ -4,6 +4,7 @@ I'm a Software Engineer with experience in building applications with Python, Ja
 
 
 What I do
+
 💻 Software Engineer @ iHeartMedia (Full time)
 
 💻 Software Engineer Intern @ iHeartMedia (Summer 2023)
@@ -14,6 +15,7 @@ What I do
 
 
 More about me
+
 🚲 Ameature cyclist
 
 🌱 I’m currently learning Blazory and Rust
