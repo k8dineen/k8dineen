@@ -18,9 +18,9 @@ More about me
 
 🚲 Ameature cyclist
 
-🌱 I’m currently learnining Blazor and Go
+🌱 I’m currently learnining Golang, Node.js, Vue.js
 
 📫 How to reach me: - LinkedIn: Kate Dineen, - Mail: Send me an e-mail!
 
-🔎 Fun facts: I love the NBA and WNBA and traveling!
+🔎 Fun facts: I love following sports and centering personal projects around basketball
 
