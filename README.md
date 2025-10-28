@@ -5,7 +5,7 @@ I'm a Software Engineer with experience in building applications using Python, J
 
 What I do
 
-💻 Software Engineer @ iHeartMedia (Full time, 1.5 yrs)
+💻 Software Engineer @ iHeartMedia (Full time, 2 yrs)
 
 🎓 December '23 Grad @ Columbia University in the City of New York
 
